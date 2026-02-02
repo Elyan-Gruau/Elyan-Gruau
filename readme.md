@@ -1,6 +1,6 @@
 # Hey, I'm Elyan 👋
 
-Étudiant en informatique passionné par le développement et les technologies blockchain.
+Étudiant en informatique passionné par le développement et les technologies blockchain. <br/>
 [Portfolio](https://elyan-gruau.com)
 
 
